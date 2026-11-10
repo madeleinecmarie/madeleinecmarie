@@ -1,46 +1,36 @@
-# Hi! 👋
+# Hi, I'm Madeleine 👋
 
-My name is Madeleine Bergvik, I'm 26 years old and living in Moss Norway. I'm currently on my last year of front end development at Noroff in Oslo. 
-I'm always up for a challenge, and love to learn new things to master new skills. 
+Frontend developer based in Moss, Norway, with 3+ years of experience building SaaS for retail with **Vue, Nuxt and TypeScript**.
 
-Currently working on my portfolio: https://magical-mochi-ef492f.netlify.app/
+I care about software that is secure, thoughtful and nice to use. Before I started coding, I spent years working in retail and as a store manager, so I know the everyday life of the people I build for.
 
-## My programming and language skills
+🌐 **Portfolio:** [link to the new portfolio]
+💼 **LinkedIn:** [Madeleine Bergvik](https://www.linkedin.com/in/madeleine-bergvik-276b6b20a)
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## Tech I work with
 
-## Styling 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## What I've worked on
 
+- 📚 E-learning with courses, quizzes and video for store employees
+- 🛠️ An admin platform for users, roles and organisation structure (Nuxt 4, PrimeVue, AG Grid)
+- 🔒 Web security: XSS protection and sanitising user content
+- 🎨 Themes, animations and multilingual UIs (Norwegian, English, Swedish)
 
-## Design
+## Fun fact
 
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+## Fun facts
 
-
-## Others 
-
-![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![image](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-
-### Other info
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=madeleinecmarie&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madeleinecmarie&theme=tokyonight)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=madeleinecmarie.madeleinecmarie)
+- 🇸🇪🇳🇴 Half Swedish, half Norwegian, and fluent in both
+- ⛵🩰🧗 Sailing, ballet and climbing: I like hobbies that need balance, focus and a bit of courage. Turns out that works for code too.
