@@ -26,7 +26,7 @@ I care about software that is secure, thoughtful and nice to use. Before I start
 - 📚 E-learning with courses, quizzes and video for store employees
 - 🛠️ An admin platform for users, roles and organisation structure (Nuxt 4, PrimeVue, AG Grid)
 - 🔒 Web security: XSS protection and sanitising user content
-- 🎨 Themes, animations and multilingual UIs (Norwegian, English, Swedish)
+- 🎨 Themes, animations, Figma and multilingual UIs (Norwegian, English, Swedish)
 
 ## Fun fact
 
