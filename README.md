@@ -4,7 +4,7 @@ Frontend developer based in Moss, Norway, with 3+ years of experience building S
 
 I care about software that is secure, thoughtful and nice to use. Before I started coding, I spent years working in retail and as a store manager, so I know the everyday life of the people I build for.
 
-🌐 **Portfolio:** [link to the new portfolio]
+🌐 **Portfolio:** [https://madeleinebergvik.netlify.app/]
 💼 **LinkedIn:** [Madeleine Bergvik](https://www.linkedin.com/in/madeleine-bergvik-276b6b20a)
 
 ## Tech I work with
